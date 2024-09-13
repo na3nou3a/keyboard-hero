@@ -15,3 +15,6 @@
 - Others:
   - Fonts
   - FontAwesome 
+
+## Live Preview
+[https://na3nou3a.github.io/keyboard-hero/]
